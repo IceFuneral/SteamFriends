@@ -84,3 +84,4 @@
 | ![](https://avatars.steamstatic.com/800eaa3d6fa74dce15d57ee90325251a911d974b.jpg) | hashimoyu            | [76561198881361993](https://steamcommunity.com/profiles/76561198881361993/) | ✅           | 2024-05-12 01:05:46 |          |
 | ![](https://avatars.steamstatic.com/4f421ca342ad6b8f2ee5d8cbfa5dd961b386ae79.jpg) | 七三载                  | [76561198979511037](https://steamcommunity.com/profiles/76561198979511037/) | ✅           | 2022-08-29 03:24:32 |          |
 | ![](https://avatars.steamstatic.com/39b81edc91c63c053906fd783d329d03bb6bfbcb.jpg) | old.老六               | [76561199155861316](https://steamcommunity.com/profiles/76561199155861316/) | ✅           | 2024-09-13 14:34:35 |          |
+| ![](https://avatars.steamstatic.com/8c76cac2149d7eab7ae605b6a66fcbb8da2fb666.jpg) | 老Hi                  | [76561199492063229](https://steamcommunity.com/profiles/76561199492063229/) | ✅           | 2024-09-16 13:24:12 |          |
