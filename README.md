@@ -87,3 +87,4 @@
 | ![](https://avatars.steamstatic.com/8c76cac2149d7eab7ae605b6a66fcbb8da2fb666.jpg) | 老Hi                  | [76561199492063229](https://steamcommunity.com/profiles/76561199492063229/) | ✅           | 2024-09-16 13:24:12 |          |
 | ![](https://avatars.steamstatic.com/16202c79c62e89de1d78ae9ce6c0d4739fb23339.jpg) | 森夏千雪                 | [76561199753088200](https://steamcommunity.com/profiles/76561199753088200/) | ✅           | 2024-09-26 02:55:54 |          |
 | ![](https://avatars.steamstatic.com/21c2fa6bcb6bc74466690bc3790a4ddeda642f2f.jpg) | 清含                   | [76561198801640794](https://steamcommunity.com/profiles/76561198801640794/) | ✅           | 2024-10-16 13:00:01 |          |
+| ![](https://avatars.steamstatic.com/f8af2fe0196972184bd62566346039c6699ed4bc.jpg) | 苏苏吖                  | [76561198978604642](https://steamcommunity.com/profiles/76561198978604642/) | ✅           | 2024-10-17 09:36:55 |          |
